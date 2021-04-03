@@ -1,4 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathias-soderqvist/)](https://www.linkedin.com/in/mathias-soderqvist/)
+[![Gmail Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathias.soderqvist@live.com)](mailto:mathias.soderqvist@live.com)
 
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
