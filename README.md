@@ -25,14 +25,12 @@ Hi, I'm [Mathias Soderqvist](https://www.linkedin.com/in/mathias-soderqvist/), a
 I enjoy collaborating and sharing brilliant ideas and turning them into the real thing.
 
 - 🔭 I’m currently working on building a mock crypto wallet.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Nest.js.
 - 💬 Ask me anything. I'm always open to new and creative thoughts and ideas.
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-- 
-- 📊 **This Week I Spent My Time On:**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mathias-soderqvist/)
+ 
 <!--START_SECTION:waka-->
-
+- 📊 **This Week I Spent My Time On:**
 <!--END_SECTION:waka-->
 <!--
 **MathiasSoderqvist/MathiasSoderqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
