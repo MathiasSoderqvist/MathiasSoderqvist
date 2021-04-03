@@ -19,6 +19,10 @@
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 </p>
+
+Hi, I'm [Mathias Soderqvist](https://www.linkedin.com/in/mathias-soderqvist/), a passionate Full Stack web developer from Sweden. My passion for software lies with dreaming up ideas and making them become a reality. I take great care in the experience, architecture, and code quality of the things I build.
+
+I enjoy collaborating and sharing brilliant ideas and turning them into the real thing.
 <!--
 **MathiasSoderqvist/MathiasSoderqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
