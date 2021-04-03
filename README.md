@@ -23,6 +23,23 @@
 Hi, I'm [Mathias Soderqvist](https://www.linkedin.com/in/mathias-soderqvist/), a passionate Full Stack web developer from Sweden. My passion for software lies with dreaming up ideas and making them become a reality. I take great care in the experience, architecture, and code quality of the things I build.
 
 I enjoy collaborating and sharing brilliant ideas and turning them into the real thing.
+
+- 🔭 I’m currently working on building a mock crypto wallet.
+- 🌱 I’m currently learning ...
+- 💬 Ask me anything. I'm always open to new and creative thoughts and ideas.
+- 📫 How to reach me: ...
+- ⚡ Fun fact: ...
+- 
+- 📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+JavaScript   6 hrs 34 mins   ████████████░░░░░░░░░░░░░   48.20 % 
+JSX          3 hrs 34 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.16 % 
+SCSS         2 hrs 16 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Markdown     46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+```
+<!--END_SECTION:waka-->
 <!--
 **MathiasSoderqvist/MathiasSoderqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
