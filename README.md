@@ -32,7 +32,7 @@ I enjoy collaborating and sharing brilliant ideas and turning them into the real
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mathias-soderqvist/)
  
 <!--START_SECTION:waka-->
-- 📊 **This Week I Spent My Time On:**
+<!--mathiassoderqvist-->
 <!--END_SECTION:waka-->
 <!--
 **MathiasSoderqvist/MathiasSoderqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
