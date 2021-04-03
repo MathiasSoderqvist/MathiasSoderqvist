@@ -26,7 +26,7 @@ I enjoy collaborating and sharing brilliant ideas and turning them into the real
 
 - 🔭 I’m currently working on building a mock crypto wallet.
 - 🌱 I’m currently learning Nest.js.
-- 💬 Ask me anything. I'm always open to new and creative thoughts and ideas.
+- 💬 Ask me anything. I'm always open to creative, new thoughts and ideas.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mathias-soderqvist/)
  
 <!--START_SECTION:waka-->
