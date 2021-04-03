@@ -32,21 +32,7 @@ I enjoy collaborating and sharing brilliant ideas and turning them into the real
 - 
 - 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-name: Mathias Soderqvist Readme
 
-on:
-  schedule:
-    # Runs at 12am GMT
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
 <!--END_SECTION:waka-->
 <!--
 **MathiasSoderqvist/MathiasSoderqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
