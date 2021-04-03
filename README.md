@@ -32,13 +32,21 @@ I enjoy collaborating and sharing brilliant ideas and turning them into the real
 - 
 - 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-JavaScript   6 hrs 34 mins   ████████████░░░░░░░░░░░░░   48.20 % 
-JSX          3 hrs 34 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.16 % 
-SCSS         2 hrs 16 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Markdown     46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-```
+name: Mathias Soderqvist Readme
+
+on:
+  schedule:
+    # Runs at 12am GMT
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
 <!--END_SECTION:waka-->
 <!--
 **MathiasSoderqvist/MathiasSoderqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
