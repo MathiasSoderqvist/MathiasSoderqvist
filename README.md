@@ -22,9 +22,8 @@
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 </p>
 
-Hi, I'm [Mathias Soderqvist](https://www.linkedin.com/in/mathias-soderqvist/), a passionate Full Stack web developer from Sweden. My passion for software lies with dreaming up ideas and making them become a reality. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Mathias Soderqvist](https://www.linkedin.com/in/mathias-soderqvist/), a passionate Full Stack web developer from Sweden. My passion for software lies with collaborating and sharing brilliant ideas and making them become a reality. I take great care in the experience, architecture, and code quality of the things I build.
 
-I enjoy collaborating and sharing brilliant ideas and turning them into the real thing.
 
 - 🔭 I’m currently working on building a mock crypto wallet.
 - 🌱 I’m currently learning Nest.js.
