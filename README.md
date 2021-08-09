@@ -30,6 +30,7 @@ Hi, I'm [Mathias Soderqvist](https://www.linkedin.com/in/mathias-soderqvist/), a
 - 🌱 I’m currently learning Liquid.
 - 💬 Ask me anything. I'm always open to innovative, creative thoughts and ideas.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mathias-soderqvist/)
+- 🖥 My portfolio: https://www.mathiassoderqvist.com/
  
 <!--START_SECTION:waka-->
 <!--mathiassoderqvist-->
