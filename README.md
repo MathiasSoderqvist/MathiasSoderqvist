@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
+### Hey there
 [![Linkedin Badge](https://img.shields.io/badge/-mathiassoderqvist-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathias-soderqvist/)](https://www.linkedin.com/in/mathias-soderqvist/)
 [![Gmail Badge](https://img.shields.io/badge/-mathias.soderqvist@live.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathias.soderqvist@live.com)](mailto:mathias.soderqvist@live.com)
 
