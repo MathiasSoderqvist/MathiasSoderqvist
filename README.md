@@ -27,7 +27,7 @@ Hi, I'm [Mathias Soderqvist](https://www.linkedin.com/in/mathias-soderqvist/), a
 <img align="right" alt="illustration of web developer with laptop" src="https://isometric.online/wp-content/uploads/2019/07/Coding_SVG.svg" width="300" height="300" />
 
 - 🔭 I’m currently working on building a crypto ticker.
-- 🌱 I’m currently learning Next.js.
+- 🌱 I’m currently learning Solidity.
 - 💬 Ask me anything. I'm always open to innovative, creative thoughts and ideas.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mathias-soderqvist/)
  
