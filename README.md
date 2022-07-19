@@ -24,7 +24,7 @@
 
 Hi, I'm [Mathias Soderqvist](https://www.linkedin.com/in/mathias-soderqvist/), a developer from Sweden. My passion for software lies with collaborating and sharing brilliant ideas and making them become a reality. I take great care in the experience, architecture, and code quality of the things I build.
 
-<img align="right" alt="illustration of web developer with laptop" src="https://isometric.online/wp-content/uploads/2019/07/Coding_SVG.svg" width="300" height="300" />
+<img align="right" alt="illustration of web developer with laptop" src="https://www.svgrepo.com/show/98246/coding.svg" width="300" height="300" />
 
 - 🔭 I’m currently working on building a crypto ticker.
 - 🌱 I’m currently learning Solidity.
