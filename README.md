@@ -25,7 +25,7 @@ Hi, I'm [Mathias Soderqvist](https://www.linkedin.com/in/mathias-soderqvist/), a
 
 <img align="right" alt="illustration of web developer with laptop" src="https://www.svgrepo.com/show/98246/coding.svg" width="300" height="300" />
 
-- 🔭 I’m currently working on a Fantasy Football app ⚽️
+- 🔭 I’m currently working on a UFC Fantasy App 🥊
 - 🌱 I’m currently learning Solidity.
 - 💬 Ask me anything. I'm always open to innovative, creative thoughts and ideas.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mathias-soderqvist/)
