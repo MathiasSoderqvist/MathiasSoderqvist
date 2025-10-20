@@ -29,7 +29,6 @@ Hi, I'm [Mathias Soderqvist](https://www.linkedin.com/in/mathias-soderqvist/), a
 
 I’m passionate about turning ideas into reality through thoughtful design, clean architecture, and high-quality code. I love collaborating with creative teams, solving meaningful problems, and continuously learning along the way.
 
-- 🔭 I’m currently working on a UFC Fantasy App 🥊
 - 💬 Ask me anything. I'm always open to innovative, creative thoughts and ideas.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mathias-soderqvist/)
  
