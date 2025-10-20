@@ -25,9 +25,9 @@
   <img alt="Figma" src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff" />
 </p>
 
-Hi, I'm [Mathias Soderqvist](https://www.linkedin.com/in/mathias-soderqvist/), a developer from Sweden. My passion for software lies with collaborating and sharing brilliant ideas and making them become a reality. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Mathias Soderqvist](https://www.linkedin.com/in/mathias-soderqvist/), a Software Engineer from Sweden with a background that spans the sports industry and hospitality, before making the jump into tech. My experiences taught me the value of teamwork, adaptability, and creating great experiences — lessons I carry into how I build products today.
 
-<img align="right" alt="illustration of web developer with laptop" src="https://www.svgrepo.com/show/98246/coding.svg" width="300" height="300" />
+I’m passionate about turning ideas into reality through thoughtful design, clean architecture, and high-quality code. I love collaborating with creative teams, solving meaningful problems, and continuously learning along the way.
 
 - 🔭 I’m currently working on a UFC Fantasy App 🥊
 - 💬 Ask me anything. I'm always open to innovative, creative thoughts and ideas.
