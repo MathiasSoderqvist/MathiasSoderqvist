@@ -9,6 +9,8 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+  <img alt="Apollo" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
+  <img alt="Apollo" src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -19,6 +21,8 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff" />
 </p>
 
 Hi, I'm [Mathias Soderqvist](https://www.linkedin.com/in/mathias-soderqvist/), a developer from Sweden. My passion for software lies with collaborating and sharing brilliant ideas and making them become a reality. I take great care in the experience, architecture, and code quality of the things I build.
